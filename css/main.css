@@ -1,0 +1,7 @@
+.hero{
+background-image: url('../assets/images/catering.jpg');
+object-fit: cover;
+background-repeat: no-repeat;
+width: 100vw;
+height: 100vh;
+}
